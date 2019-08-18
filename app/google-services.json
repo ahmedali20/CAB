@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394341920912",
+    "firebase_url": "https://c-a-b-1059a.firebaseio.com",
+    "project_id": "c-a-b-1059a",
+    "storage_bucket": "c-a-b-1059a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394341920912:android:ac3f4dd129c2d0af",
+        "android_client_info": {
+          "package_name": "com.example.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394341920912-gpeg6l01mrc6pu6ofh2fv3hvf43p0tca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwV8dIppY0JO7TaQmsxh8yNR14rUpHyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394341920912-gpeg6l01mrc6pu6ofh2fv3hvf43p0tca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
